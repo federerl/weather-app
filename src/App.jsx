@@ -73,7 +73,7 @@ export default function App() {
     );
   };
 
-  const infoUrl = "https://www.linkedin.com/company/product-manager-accelerator/";
+  const infoUrl = "https://www.linkedin.com/school/pmaccelerator/";
 
   return (
     <div style={{ maxWidth: 700, margin: "2rem auto", padding: "1rem" }}>
